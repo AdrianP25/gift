@@ -39,7 +39,7 @@ canvas {
 
 body {
   background: #FFFFFF;
-  /*overflow: hidden;*/
+  overflow: hidden;
   font-family: Helvetica, sans-serif;
   url: "http://benague.ca/files/pw_pattern.png";
 }

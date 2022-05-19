@@ -23,7 +23,7 @@ var canvas = document.getElementById("canvas1"),
     colors = ["102, 102, 51", "6, 147, 25", "102, 102, 153", "122, 5, 5", "98, 4, 85"],
     minDist = 20,
     bounceFactor = 1.3,
-    count123=3000000;
+    count123=4000000;
 
 var W = window.innerWidth,
     H = window.innerHeight;
